@@ -37,15 +37,15 @@ It processes your exported video file before upload, applying optimizations that
 
 ## Download
 
-Click the button below to download the latest version:
-
 <div align="center">
+  <br>
   <a href="https://github.com/henriquix20/henriquix20-encoder/releases/latest">
-    <img src="https://img.shields.io/badge/⬇ Download%20Latest%20Version-7ED321?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20LATEST-7ED321?style=for-the-badge&logoColor=black&logoWidth=20" height="42" />
   </a>
+  <br><br>
+  <sub>Windows 10 / 11 &nbsp;·&nbsp; 64-bit &nbsp;·&nbsp; No installation required</sub>
+  <br><br>
 </div>
-
-> **Requirements:** Windows 10 or 11 (64-bit). No additional software needed.
 
 ---
 
@@ -109,5 +109,5 @@ Redistribution, reverse engineering or modification is not permitted.
 ---
 
 <div align="center">
-  <p>Made by <a href="https://github.com/henriquix20"><strong>henriquix20</strong></a></p>
+  <p>Made by <strong>henriquix20</strong></p>
 </div>
