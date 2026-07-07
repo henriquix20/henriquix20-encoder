@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.env
+venv/
+.venv/
+
+# Arquivos de vídeo (não subir no repositório)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.prores
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# VSCode
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
