@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Henriquix20 Encoder" width="280" />
+  <img src="assets/logo.png" alt="Henriquix20 Encoder" width="160" />
   <h1>Henriquix20 Encoder</h1>
   <p><strong>TikTok video encoder — optimized for maximum upload quality</strong></p>
   <p>
