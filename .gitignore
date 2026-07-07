@@ -1,0 +1,21 @@
+# Source code — kept private
+*.py
+*.spec
+*.bat
+
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Root assets (kept local)
+logo.ico
+
+# Dependencies / config
+requirements.txt
+.vscode/
+
+# Misc
+.env
+*.log
